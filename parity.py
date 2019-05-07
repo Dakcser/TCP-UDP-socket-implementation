@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
-# Ota kirjain muuta se int ord(<"kirjain">)
-# Muuta binaariksi numero bin(<int>)
-#Ottaa vastaan 64byte tekstiä str
 import random 
 
 def main():
